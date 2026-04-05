@@ -26,7 +26,8 @@ Ho approciato al mondo della programmazione con C per poi sportarmi su C#, HTML,
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 <a href="https://visualstudio.microsoft.com/insiders/">
-  <img src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2025/09/BlogFeaturedImage-option2.png" width="48px" />
+  <img src="https://forest.watch.impress.co.jp/img/wf/list/2046/095/visual_studio_insider.jpg"/>
 </a>
+
 
 </p>
