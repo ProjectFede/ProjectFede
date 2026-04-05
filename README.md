@@ -1,5 +1,5 @@
 ## Halo! I'm ProjectFede!
-Sono uno studente che punta a migliorarsi costantemente, approfondendo concetti e tecnologie in modo pratico.
+Studente che punta ad approfondire concetti e tecnologie in modo pratico creando programmi come passatempo o per lavoro.
 Ho approcciato il mondo della programmazione con C per poi spostarmi su C#, HTML, JavaScript e TypeScript.
 
 <h3>Languages, Database, Tools</h3>
