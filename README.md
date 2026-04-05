@@ -16,6 +16,11 @@ Ho approciato al mondo della programmazione con C per poi sportarmi su C#, HTML,
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
+  
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+   <img src=" https://skillicons.dev/icons?i=css" />
+  </a>
+
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
