@@ -25,6 +25,10 @@ Ho approciato al mondo della programmazione con C per poi sportarmi su C#, HTML,
    <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
+  
+<a href="https://code.visualstudio.com/insiders/">
+  <img height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocodeinsiders_94182.png" />
+</a>
 </p>
   <a href="https://code.visualstudio.com/">
     <img src="https://skillico
