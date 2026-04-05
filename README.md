@@ -1,6 +1,6 @@
 ## Halo! I'm ProjectFede!
 Sono uno studente che punta a migliorarsi costantemente, approfondendo concetti e tecnologie in modo pratico.
-Ho approciato al mondo della programmazione con C per poi sportarmi su C#, HTML, JavaScript e TypeScript. 
+Ho approcciato il mondo della programmazione con C per poi spostarmi su C#, HTML, JavaScript e TypeScript.
 
 <h3>Languages, Database, Tools</h3>
 <p>
@@ -16,9 +16,8 @@ Ho approciato al mondo della programmazione con C per poi sportarmi su C#, HTML,
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
-  
- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-   <img src=" https://skillicons.dev/icons?i=css" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
   </a>
 
   <a href="https://git-scm.com/">
@@ -27,12 +26,10 @@ Ho approciato al mondo della programmazione con C per poi sportarmi su C#, HTML,
   <a href="https://github.com">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-   <a href="https://code.visualstudio.com/">
+  <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
-<a href="https://visualstudio.microsoft.com/insiders/">
-  <img src="https://forest.watch.impress.co.jp/img/wf/list/2046/095/visual_studio_insider.jpg" width="48px" />
-</a>
-
-
+  <a href="https://visualstudio.microsoft.com/insiders/">
+    <img src="https://skillicons.dev/icons?i=visualstudio" />
+  </a>
 </p>
